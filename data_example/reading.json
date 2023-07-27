@@ -1,0 +1,6 @@
+{
+    "@id": "http://environment.data.gov.uk/flood-monitoring/data/readings/E21326-rainfall-tipping_bucket_raingauge-t-15_min-mm/2023-07-27T00-00-00Z",
+    "dateTime": "2023-07-27T00:00:00Z",
+    "measure": "http://environment.data.gov.uk/flood-monitoring/id/measures/E21326-rainfall-tipping_bucket_raingauge-t-15_min-mm",
+    "value": 0.01
+}
